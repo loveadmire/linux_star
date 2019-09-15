@@ -70,3 +70,9 @@
  00-01-08-06-08  LOG : WARN  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:76}   log test hello 1  32 
  00-01-08-06-08  LOG : WARN  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:75}   log test hello 1  32 
  00-01-08-06-08  LOG : WARN  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:75}   log test hello 1  32 
+ 00-01-07-00-00  LOG : WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:75}   log test hello 1  32 
+ 00-01-07-00-00  LOG : WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:76}  log test hello 1 32 
+__DATE__ __TIME__ LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:75}   log test hello 1  32 
+__DATE__ __TIME__ LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:76}  log test hello 1 32 
+Sep 15 2019 15:56:40 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:75}   log test hello 1  32 
+Sep 15 2019 15:56:40 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:76}  log test hello 1 32 

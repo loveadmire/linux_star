@@ -113,7 +113,7 @@ static const char* TypeToString_self(const Type type ){
             struct tm *ptr = NULL;\
             time_t ltime;\
             ptr = localtime(&ltime);\
-            sprintf(msg," %02d-%02d-%02d-%02d-%02d  %s : %s {%s:%d}  "format,ptr->tm_mon,ptr->tm_mday,ptr->tm_hour,ptr->tm_min,ptr->tm_sec,LOG_TAG,TypeToString_self(type),__FILE__,__LINE__,##__VA_ARGS__);\
+            sprintf(msg,"%s %s %s %s {%s:%d}  "format, __DATE__, __TIME__, LOG_TAG, TypeToString_self(type), __FILE__, __LINE__, ##__VA_ARGS__);\
             fwrite(msg,1,strlen(msg),fp);\
             fclose(fp);\
         }\

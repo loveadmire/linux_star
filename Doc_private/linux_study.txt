@@ -1,0 +1,7 @@
+linux 设备驱动开发学习
+
+1.了解SRAM，Flash,SDRAM,磁盘的读写方式；UART IIC,USB,设备接口，轮询，中断，DMA原理；
+    PIC总线的工作方式，CPU的内存管理单元MMU
+2. C语言基础，结构体，指针，函数指针，内存动态申请释放；
+3. linux 驱动和内核的接口；
+4.linux 网络并发连接：当用epoll以后，用select进行检测，数量大于1024则会异常

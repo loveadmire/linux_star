@@ -1,0 +1,72 @@
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:28}   hello world 1  23d 
+ LOG : FATAL {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:29}   hello world 0  23d 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:30}   hello world 2  23d 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:28}   hello world 1  23d 
+ LOG : FATAL {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:29}   hello world 0  23d 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:30}   hello world 2  23d 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:28}   hello world 1  23d 
+ LOG : FATAL {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:29}   hello world 0  23d 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:30}   hello world 2  23d 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:27}   hello world 1  0 
+ LOG : FATAL {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:28}   hello world 0  0 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:29}   hello world 2  0 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:27}   hello world 1  0 
+ LOG : FATAL {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:28}   hello world 0  0 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:29}   hello world 2  0 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:27}   hello world 1  0 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:73}   hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:73}   hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:55}   log test hello 1  32 
+ LOG : INFO  {../src/main_test.c:56}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:56}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:56}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:56}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:56}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:58}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:58}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:59}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:63}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:63}   log test hello 1  32 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:63}   log test hello 1  32 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  生成共享密钥失败 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  生成共享密钥失败 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  生成共享密钥失败 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  生成共享密钥失败 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  生成共享密钥失败 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : ERROR  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  gentra mask key fail LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  gentra mask key fail LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  gentra mask key fail 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  gentra mask key fail 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  gentra mask key fail 
+ LOG : DEBUG {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:40}  curve_name is 722  
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  gentra mask key fail 
+ LOG : DEBUG {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:40}  curve_name is 722  
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:77}  ECDSA_size 50 
+ LOG : INFO  {/home/admire/workspace/Cline_project/Pro_src/src/gmssl/gmssl_mast_secruty.c:107}  gentra mask key fail 
+ 0-1-8-0-0 LOG : WARN  {../src/main_test.c:75}   log test hello 1  32 
+ 0-1-8-0-0 LOG : WARN  {../src/main_test.c:75}   log test hello 1  32 
+ 00-1-8-6-8 LOG : WARN  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:75}   log test hello 1  32 
+ 00-01-08-06-08  LOG : WARN  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:75}   log test hello 1  32 
+ 00-01-08-06-08  LOG : WARN  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:76}   log test hello 1  32 
+ 00-01-08-06-08  LOG : WARN  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:75}   log test hello 1  32 
+ 00-01-08-06-08  LOG : WARN  {/home/admire/workspace/Cline_project/Pro_src/src/main_test.c:75}   log test hello 1  32 

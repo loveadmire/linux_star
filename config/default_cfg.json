@@ -1,0 +1,13 @@
+{
+	"net_item":	{
+		"reportIP":	"127.0.0.1",
+		"port":	8080,
+		"local":	6523,
+		"localSSL":	6522,
+		"port":	6638
+	},
+	"log_item":	{
+		"log_level":	7,
+		"log_size":	10
+	}
+}

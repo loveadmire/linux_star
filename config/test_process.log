@@ -76,3 +76,11 @@ __DATE__ __TIME__ LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.
 __DATE__ __TIME__ LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:76}  log test hello 1 32 
 Sep 15 2019 15:56:40 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:75}   log test hello 1  32 
 Sep 15 2019 15:56:40 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:76}  log test hello 1 32 
+Sep 15 2019 16:03:18 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:75}   log test hello 1  32 
+Sep 15 2019 16:03:18 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:76}  log test hello 1 32 
+Sep 15 2019 16:07:09 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:75}   log test hello 1  32 
+Sep 15 2019 16:07:09 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:76}  log test hello 1 32 
+Sep 15 2019 16:07:09 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:75}   log test hello 1  32 
+Sep 15 2019 16:07:09 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:76}  log test hello 1 32 
+Sep 15 2019 17:20:10 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:72}   log test hello 1  32 
+Sep 15 2019 17:20:10 LOG WARN  {/home/zhuaq/CLionProjects/linux_star/src/main_test.c:73}  log test hello 1 32 

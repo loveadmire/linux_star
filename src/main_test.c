@@ -1,20 +1,17 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
-#include <pthread.h>
 
-#include "cJSON.h"
-#include "cJSON_Utils.h"
-#include "logger.h"
-#include "Make_cfg_file.h"
-#include "Read_file.h"
-#include "websocket_common.h"
+#include "gmssl/inc/gmssl_debug.h"
+#include "json/inc/cJSON_Utils.h"
+#include "common/inc/logger.h"
+#include "common/inc/Make_cfg_file.h"
+#include "websocket_linux/inc/websocket_common.h"
 
-#include "gmssl_debug.h"
-#include "epoll_func.h"
-#include "Sort_func.h"
-#include "queue.h"
-#include "pars_conf.h"
+#include "linux_net/inc/epoll_func.h"
+#include "common/inc/Sort_func.h"
+#include "datastruct/inc/queue.h"
+#include "common/inc/pars_conf.h"
 unsigned int log_level = 0;
 unsigned int log_size = 0 ;
 
@@ -74,6 +71,7 @@ int main(int argc,char *argv[]){
             char *str = "log test hello";
             PRINT_MYLOG(LOG_TYPE_WARN," %s 1  %d \n",str,32);
             PRINT_MYLOG(LOG_TYPE_WARN,"%s 1 %d \n",str,32);
+            PRINT_SYSLOG(LOG_SYS_DEBUG,"%s %d",str,32);
         }
         if(strcmp(argv[1],"datastruct") == 0) {
             queue_test_01();

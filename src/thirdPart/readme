@@ -1,0 +1,13 @@
+build third part src
+curl-7.51.0.tar.gz
+tar -xzvf curl-7.51.0.tar.gz
+cd curl-7.51.0
+./configure
+make
+
+libevent-2.1.11-stable.tar.gz
+tar -xzvf libevent-2.1.11-stable.tar.gz
+cd libevent-2.1.11
+./buildconf
+./configure
+make

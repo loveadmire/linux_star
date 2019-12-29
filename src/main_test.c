@@ -87,18 +87,21 @@ int main(int argc,char *argv[]){
 #include <stdio.h>
 #include <string.h>
 
+#define PRINTF_WIDTH 32
+#define PRINTF_WORLD_LENTH 32
+
 int main()
 {
-    int i = 0;
-    int length  = 32;
-    char *str = "12345678";
-    char *str1 = "123456789012345679801234657890123";
-    printf("test    tttt\n");
-
-    printf("%-*s", 32, str);
-    printf("aa\n");
-    printf("%-*s\n", 32, str1);
-    printf("aa\n");
+    char *str_38 = "12345678901234567890123465789012346578";
+    char *str_10 = "1234567890";
+    printf("%-*s| 左对齐打印源字符串 \n", PRINTF_WIDTH, str_38);
+    printf("%-*.*s|       左对齐打印str_38中PRINTF_WORLD_LENTH个数的字符，最少打印PRINTF_WIDTH，不足用空格补齐\n", PRINTF_WIDTH, PRINTF_WORLD_LENTH, str_38);
+    printf("%-32.12s|       左对齐打印str_38中12个字符，其余不足32宽度的部分，用空格补齐\n", str_38);
+    printf("%-32.10s|\n", str_38);
+    printf("%*.*s|       右对齐，打印str_10，不足32宽度的前面补空格\n", PRINTF_WIDTH, PRINTF_WORLD_LENTH, str_10);
+    printf("%-*.*s|       左对齐，打印str_10，不足32宽度的后面补空格\n", PRINTF_WIDTH, PRINTF_WORLD_LENTH, str_10);
+    printf("%*.*s|       右对齐，打印str_38，不足32宽度的前面补空格\n", PRINTF_WIDTH, PRINTF_WORLD_LENTH, str_38);
+    printf("%-*.*s|       左对齐，打印str_38，不足32宽度的后面补空格\n", PRINTF_WIDTH, PRINTF_WORLD_LENTH, str_38);
     return 0;
 }
 #endif

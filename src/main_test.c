@@ -81,10 +81,24 @@ int main(int argc,char *argv[]){
         }
 
     }
-
-
-
-
-
     return 0;
 }
+#if 0
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+    int i = 0;
+    int length  = 32;
+    char *str = "12345678";
+    char *str1 = "123456789012345679801234657890123";
+    printf("test    tttt\n");
+
+    printf("%-*s", 32, str);
+    printf("aa\n");
+    printf("%-*s\n", 32, str1);
+    printf("aa\n");
+    return 0;
+}
+#endif
